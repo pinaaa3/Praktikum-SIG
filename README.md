@@ -1,2 +1,2 @@
 # Praktikum-SIG
-File Praktikum 3
+File Praktikum
